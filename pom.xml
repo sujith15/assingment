@@ -194,7 +194,7 @@
               <!-- Sets the path to the file which contains the execution data. -->
               <dataFile>target/jacoco.exec</dataFile>
               <!-- Sets the output directory for the code coverage report. -->
-              <outputDirectory>/Users/sujithreddydharmareddy/Desktop/SD/assingment/reports/jacocreports</outputDirectory>
+              <outputDirectory>./reports/jacocreports</outputDirectory>
             </configuration>
 
           </execution>
