@@ -5,6 +5,5 @@ jdk: openjdk8
 
 sudo: false
 script:
-  - mvn clean install
-  - mvn clean package
+  - mvn clean
   - mvn test
